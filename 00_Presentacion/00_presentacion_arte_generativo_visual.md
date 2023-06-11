@@ -20,21 +20,6 @@ Es un proceso que se utiliza en **cualquier** medio.
 ![bg right height:600](exquisite.png)
 
 ---
-<style scoped>
-    h1{
-        font-size: 50px;
-        text-align: center;
-    }
-    p{
-        font-size: 30px;
-        text-align: center;
-    }
-</style>
-# No automatizamos la creación de arte
-Es una forma de explorar ideas hasta llegar a un resultado.
-![bg right height:600](meridian266_mattdesl.png)
-
----
 # Codigo como arte
 Este proceso difumina la linea entre el arte visual, el lenguaje y programación.
 El propio sistema puede ser considerado como una obra de arte.
@@ -93,7 +78,6 @@ ul{
 ---
 # Proceso generativo
 [![width:1000](https://mermaid.ink/img/pako:eNptkdFKwzAUhl8lHBgodMM2bbP1QnHtBoKiKHhhs4vQpF2gTUaaMufYU_kIvphZNlDQXIXvO-fwc84eKs0FZFC3elutmbHo_pkqqkYjdMcFQ-PxNcIlhSejK9Fr1DE1sNb736_Xtd0yIyisvMO-MS4fB7sZLHqVves6qdir5OKsuOgF4_rm0svESdRLX5KWS6lWP1jpU5pjvNvymG7lwbwsRC2VNMiIpmW9a5l7kZf51yeXjXYk96T4E6jwfPFPmoUzvXR2ec5xBEo7kFMFAXTCdExyt7s9VQhRsGvRuQVk7tvKZm0pUHVwhWyw-mWnKsisGUQAw4YzKwrJGsM6yGrW9o5umIJsD--QjXFKJoQkUYyneIanCQ5gB1kUTdI0jKM4jWaYJOQqOgTwobUbEU6mhJAQxxiHsxTHUeLnvXl5ni-4tNo8nK7tj374Bo0QmFY?type=png)](https://mermaid.live/edit#pako:eNptkdFKwzAUhl8lHBgodMM2bbP1QnHtBoKiKHhhs4vQpF2gTUaaMufYU_kIvphZNlDQXIXvO-fwc84eKs0FZFC3elutmbHo_pkqqkYjdMcFQ-PxNcIlhSejK9Fr1DE1sNb736_Xtd0yIyisvMO-MS4fB7sZLHqVves6qdir5OKsuOgF4_rm0svESdRLX5KWS6lWP1jpU5pjvNvymG7lwbwsRC2VNMiIpmW9a5l7kZf51yeXjXYk96T4E6jwfPFPmoUzvXR2ec5xBEo7kFMFAXTCdExyt7s9VQhRsGvRuQVk7tvKZm0pUHVwhWyw-mWnKsisGUQAw4YzKwrJGsM6yGrW9o5umIJsD--QjXFKJoQkUYyneIanCQ5gB1kUTdI0jKM4jWaYJOQqOgTwobUbEU6mhJAQxxiHsxTHUeLnvXl5ni-4tNo8nK7tj374Bo0QmFY)
-
 
 ---
 <style scoped>
@@ -173,7 +157,13 @@ ul{
 # Vamos a crear algunas formas
 # 👇
 [Editor online](https://editor.p5js.org/)
+[Situar elementos](https://editor.p5js.org/skycstls/sketches/u48GZMSHg)
+[Animacion lineal](https://editor.p5js.org/skycstls/sketches/81447KyKF)
+[Velocidad](https://editor.p5js.org/skycstls/sketches/pnO5pty-E)
 [sin() cos()](https://editor.p5js.org/skycstls/sketches/rfVd6HwBf)
+[translate()](https://editor.p5js.org/skycstls/sketches/rT8SxD2-N)
+[Turtle graphics](https://editor.p5js.org/skycstls/sketches/YLfawJbHL)
+[Particulas](https://editor.p5js.org/skycstls/sketches/n4NCWtorD)
 ![bg width:6000](shapes.png)
 
 ---
@@ -216,6 +206,7 @@ ul{
 # Aleatoriedad
 ## random(min, max)
 [lerp](https://editor.p5js.org/skycstls/sketches/Zg8rYFSDZ)
+[Posicionamiento aleatorio y mapeo de valores](https://editor.p5js.org/skycstls/sketches/9ZDTm2Yr_)
 ![bg width:100%](random_lines.png)
 
 ---
@@ -250,9 +241,10 @@ colorMode(MODE)
     }
 </style>
 # Random walkers
-Up, down, left, right
-[Add](https://editor.p5js.org/skycstls/sketches/kJD9eCa5H)
+[Random walker](https://editor.p5js.org/skycstls/sketches/hDGeXYQ7-)
+[Plantas](https://editor.p5js.org/skycstls/sketches/kJD9eCa5H)
 [Espejo](https://editor.p5js.org/skycstls/sketches/70MwWVriM)
+[Particulas](https://editor.p5js.org/skycstls/sketches/Vg2Bfd5s2)
 ![bg width:4000](shapes.png)
 
 ---
@@ -304,9 +296,11 @@ noise(x)
         margin: auto;
     }
 </style>
+[loadImage](https://editor.p5js.org/skycstls/sketches/yQmQBGN4X)
 [Scanner](https://editor.p5js.org/skycstls/sketches/4iBynuwJT)
 [Brush](https://editor.p5js.org/skycstls/sketches/6-5rjJjjA)
 [Collage digital](https://editor.p5js.org/skycstls/sketches/25oWZ76uY)
+
 ![bg width:4000](shapes.png)
 
 ---
@@ -331,6 +325,7 @@ noise(x)
 # Texto
 [Unicode explorer](https://editor.p5js.org/skycstls/sketches/DyaiCe-9y)
 [Unicode mangler](https://editor.p5js.org/skycstls/sketches/GFn8Y915W)
+[Unifont](https://unifoundry.com/unifont/)
 ![bg width:4000](shapes.png)
 
 ---
@@ -347,11 +342,31 @@ noise(x)
         margin: 0;
         padding: 0;
     }
+    img{
+        display: flex;
+        margin: auto;
+    }
  
 </style>
-# Game of life
-[GOL básico]()
-[![bg  height:600](https://mermaid.ink/img/pako:eNp9kkFuwjAQRa9izTogEocEsmgXsCQgAWLRhMUomYKlxEbGRFDgMD1AT8HF6iS0gkXrja0_7_-RNXOGTOUEEWw07rZsOU5lKkdJCiNNWKo9y6jI0V5KsoNkFRZKMywIjdJCsZ7D3BTWtYnZM2KdzgubJ3PKlNakWYY5thHrlpg3xDQZKWlQs4oyIW2XSlRqf0emDTJJloIksZLqek7Me4Zfn-j4h759NjD_D57dYTpiZtA2MH8aJrXhsrh9Xdg4ie2X9VNhqi4sboX4gXxUamTWCrNfYfwoNJ5VshJVkw4OlKRLFLmdyrkGUzBbKimFyD4LsdmaFFJ5tSAejFqcZAaR0Qdy4LDL0dBYoJ1mCdE7Fnur7lBCdIYjRB0ehN0w7Hs-H_AhH_S5AyeIPK8bBK7v-YE35GE_7HlXBz6UshFudxCGoct9zt1hwH2v3-S9NcV7PuXCbkPc7lGzTtdvEuu5lw?type=png)](https://mermaid.live/edit#pako:eNp9kkFuwjAQRa9izTogEocEsmgXsCQgAWLRhMUomYKlxEbGRFDgMD1AT8HF6iS0gkXrja0_7_-RNXOGTOUEEWw07rZsOU5lKkdJCiNNWKo9y6jI0V5KsoNkFRZKMywIjdJCsZ7D3BTWtYnZM2KdzgubJ3PKlNakWYY5thHrlpg3xDQZKWlQs4oyIW2XSlRqf0emDTJJloIksZLqek7Me4Zfn-j4h759NjD_D57dYTpiZtA2MH8aJrXhsrh9Xdg4ie2X9VNhqi4sboX4gXxUamTWCrNfYfwoNJ5VshJVkw4OlKRLFLmdyrkGUzBbKimFyD4LsdmaFFJ5tSAejFqcZAaR0Qdy4LDL0dBYoJ1mCdE7Fnur7lBCdIYjRB0ehN0w7Hs-H_AhH_S5AyeIPK8bBK7v-YE35GE_7HlXBz6UshFudxCGoct9zt1hwH2v3-S9NcV7PuXCbkPc7lGzTtdvEuu5lw)
+# Automata celular
+[Game of life]()
+![bg width:4000](shapes.png)
+
+---
+![ width:400 bg right](grid.png)
+# Grid
+Compuesto por celdas
+Cada celda representa una celula
+Una celula puede estar viva o muerta
+Representamos el estado de cada celula con el color
+
+---
+# Reglas
+La celula empieza con un valor aleatorio
+Si la celula tiene 3 vecinos vivos, nace
+Si la celula tiene 2 o 3 vecinos vivos, sobrevive
+Si la celula tiene menos de 2 o mas de 3 vecinos vivos, muere
+[![bg right width:600](https://mermaid.ink/img/pako:eNplkcFqwzAQRH_F7NkJsSRbiWgLhVx7ak-teljsTSKQpSDLaVPjf6_sJqQQHcQw8xiJ3QFq3xAo0G5n_Vd9wBCzt612qw8NdSBsfZfVZHuLGj6TnS0WT0XKnjuzd3N6QuuDdtnloCWMPhifVEZdxMbfwoYyi__7iqkv41chrqLUjg8aTlQbN71hTumeQBjnvO0pkHbijnm8MclISHmHPNzVQA4thRZNkyYxTN_VEA_UkgaVpDX7Q9RpRGMCsY_-9exqUDH0lEN_bDDS1uA-YAtqh7ZL7hEdqAG-QS14JZdSlkzwNd_wdclzOINibFlVhWCiYhsuS7liYw4_3qeKYrmWUhZccF5sKi5YOfe9z-GlnxqThvzyt7t5heMvvLmM-Q?type=png)](https://mermaid.live/edit#pako:eNplkcFqwzAQRH_F7NkJsSRbiWgLhVx7ak-teljsTSKQpSDLaVPjf6_sJqQQHcQw8xiJ3QFq3xAo0G5n_Vd9wBCzt612qw8NdSBsfZfVZHuLGj6TnS0WT0XKnjuzd3N6QuuDdtnloCWMPhifVEZdxMbfwoYyi__7iqkv41chrqLUjg8aTlQbN71hTumeQBjnvO0pkHbijnm8MclISHmHPNzVQA4thRZNkyYxTN_VEA_UkgaVpDX7Q9RpRGMCsY_-9exqUDH0lEN_bDDS1uA-YAtqh7ZL7hEdqAG-QS14JZdSlkzwNd_wdclzOINibFlVhWCiYhsuS7liYw4_3qeKYrmWUhZccF5sKi5YOfe9z-GlnxqThvzyt7t5heMvvLmM-Q)
 
 ---
 <style scoped>
@@ -373,7 +388,16 @@ noise(x)
     }
 </style>
 # Sistemas L
-Generamos un set de ordenes + un sistema de interpretacion
+Fue inventado por Aristid Lindenmayer en 1968 
+para modelar el crecimiento de algas
+
+Los sistemas L son un tipo de gramatica formal
+[F > dibuja una linea] [+ > gira 90º] [- > gira -90º]
+# FRFRFRF
+Generaremos un set de ordenes usando esta gramática
+sustituyendo cada caracter por su regla correspondiente
+de forma recursiva, a partir de un axioma
+
 ![bg width:4000](shapes.png)
 
 ---
@@ -416,7 +440,8 @@ B -> A
         margin: auto;
     }
 </style>
-[![width:600](https://mermaid.ink/img/pako:eNpdksFuwjAQRH8l2nNAxOvE4AMSiGsvbU_FHExskkiJg4JRoYh_r-NNVbU-zdsZj6WVH1D2xoKEU9t_lrUefPK-U26xV_Bqq1ZfpHJJOJtknWy2pLejnsa3pu-0DAiHZDZbJxcfKpRTLor9hqaZHtX_4XG_PSiX6UhsjPzS5B2Jyugpx3RApCRpyrHjqCnFyngHzR-yMaccUj-njh-iFqTXOPUg3eTmD1EPGqITeRNV5FmiOniQQmeHTjcmbPgxrkyBr21nFcgg26aqvQLlniGor75_u7sSpB-uNoXr2Whvd42uBt2BPOn2EqZn7UA-4AZyhoWYC5Ezjktc4TLHFO4gGZsXRcYZL9gKRS4W7JnCV9-Himy-FEJkyBGzVYGc5bHvI5pTvzWN74cX-hPxazy_ASejnWc?type=png)](https://mermaid.live/edit#pako:eNpdksFuwjAQRH8l2nNAxOvE4AMSiGsvbU_FHExskkiJg4JRoYh_r-NNVbU-zdsZj6WVH1D2xoKEU9t_lrUefPK-U26xV_Bqq1ZfpHJJOJtknWy2pLejnsa3pu-0DAiHZDZbJxcfKpRTLor9hqaZHtX_4XG_PSiX6UhsjPzS5B2Jyugpx3RApCRpyrHjqCnFyngHzR-yMaccUj-njh-iFqTXOPUg3eTmD1EPGqITeRNV5FmiOniQQmeHTjcmbPgxrkyBr21nFcgg26aqvQLlniGor75_u7sSpB-uNoXr2Whvd42uBt2BPOn2EqZn7UA-4AZyhoWYC5Ezjktc4TLHFO4gGZsXRcYZL9gKRS4W7JnCV9-Himy-FEJkyBGzVYGc5bHvI5pTvzWN74cX-hPxazy_ASejnWc)
+[![](https://mermaid.ink/img/pako:eNpdkkFzgjAQhf8Ks2d0JAlBc3BGp9de2p5qPESIQAvBQZxqHf97A49Oh8Jlv32b9zKwd0qbzJKiY9V8pYVpu2D7pt1ip-nF5pU5K-0C_2yCdbDZot729di-lk1tlEfaB7PZOjh33kI77YZit0E3Mn31v3nYbffaRWYg1o_80agdQOmgaceMR45J1Jhjh77GFEuHMzybkB3mtOPwF_D4JbhwpAn4cJwU2YTgwzPQEdpIOTQLKsY7C2RIJP4SEgUSJRIFMmQ2IbgKZEgLbaQCGhIlbiOOoHJCH5jMQZ_QClA1oXr8Uv1LIdW2rU2Z-Q25979cU1fY2mpSvqzKvOg0affwg-bSNa83l5Lq2osN6XLKTGefSpO3piZ1NNXZd0_GkbrTldSMy2SeJDETfMlXfBnzkG6kGJtLGQkmJFvxJE4W7BHSd9N4i2i-TJIk4oLzaCW5YPHg9z6Io7_Nyq5pn7HTw2o_fgDVTtLy?type=png)](https://mermaid.live/edit#pako:eNpdkkFzgjAQhf8Ks2d0JAlBc3BGp9de2p5qPESIQAvBQZxqHf97A49Oh8Jlv32b9zKwd0qbzJKiY9V8pYVpu2D7pt1ip-nF5pU5K-0C_2yCdbDZot729di-lk1tlEfaB7PZOjh33kI77YZit0E3Mn31v3nYbffaRWYg1o_80agdQOmgaceMR45J1Jhjh77GFEuHMzybkB3mtOPwF_D4JbhwpAn4cJwU2YTgwzPQEdpIOTQLKsY7C2RIJP4SEgUSJRIFMmQ2IbgKZEgLbaQCGhIlbiOOoHJCH5jMQZ_QClA1oXr8Uv1LIdW2rU2Z-Q25979cU1fY2mpSvqzKvOg0affwg-bSNa83l5Lq2osN6XLKTGefSpO3piZ1NNXZd0_GkbrTldSMy2SeJDETfMlXfBnzkG6kGJtLGQkmJFvxJE4W7BHSd9N4i2i-TJIk4oLzaCW5YPHg9z6Io7_Nyq5pn7HTw2o_fgDVTtLy)
+
 
 ---
 <style scoped>
@@ -434,6 +459,7 @@ B -> A
 </style>
 # Curva de Koch
 [![](https://mermaid.ink/img/pako:eNrNk71uwjAQgF_FutUJInYSgwckfpStS1t1KGZwEwOREhsFo0IRe-c-Yp-kR0C0VB0Z6sin3PnLF1u295C7woCEeeVe86VuPHmcKNudKnjSTalfKrOWyhJsmYIZCcMB6Y4QGCIxdnbttfUXhJLwChohdG8Wlb44yIBkNPt8_2g7zU5l_AjpMdLDbelq_eOPx3orjKaIh_jQbIY5Q_jKRK-y7_h3Tn_N4jxtfksrVfZmLoz_1nbLdeI-QAC1aWpdFngs98eToMAvTW0USHytysXSK1D2gKDeePewszlI32xMAJtVob2ZlHrR6BrkXFdrrK60BbmHLciQp6IjRMJi3uN93kt4ADuQjHXSNIpZnLI-F4noskMAb86hIur0hBARjzmP-imPWdL6ntvBs98UpXfN3ekitffp8AVCc0D2?type=png)](https://mermaid.live/edit#pako:eNrNk71uwjAQgF_FutUJInYSgwckfpStS1t1KGZwEwOREhsFo0IRe-c-Yp-kR0C0VB0Z6sin3PnLF1u295C7woCEeeVe86VuPHmcKNudKnjSTalfKrOWyhJsmYIZCcMB6Y4QGCIxdnbttfUXhJLwChohdG8Wlb44yIBkNPt8_2g7zU5l_AjpMdLDbelq_eOPx3orjKaIh_jQbIY5Q_jKRK-y7_h3Tn_N4jxtfksrVfZmLoz_1nbLdeI-QAC1aWpdFngs98eToMAvTW0USHytysXSK1D2gKDeePewszlI32xMAJtVob2ZlHrR6BrkXFdrrK60BbmHLciQp6IjRMJi3uN93kt4ADuQjHXSNIpZnLI-F4noskMAb86hIur0hBARjzmP-imPWdL6ntvBs98UpXfN3ekitffp8AVCc0D2)
+[Curva de kotch con turtle graphics](https://editor.p5js.org/skycstls/sketches/Rc38JV6Ha)
 
 ---
 <style scoped>
@@ -451,6 +477,9 @@ B -> A
 </style>
 # Arbol fractal
 [![](https://mermaid.ink/img/pako:eNptkstOwzAQRX_Fmi1tFdtp0maBFOiWDSCQiLMYEtNaSuziODxa9d-xE8JD4E0899y5Gdk-QmVqCRk8Nea12qF15HYjdFQIuJbbBrtMaOJXRM4JLaIyGksaSiqgFFpo5s2XRncOtZNTQ0HGbzmYqLfcoVX42Hw5pqgphczn50Gk00bo3Lflb8q0-NUTzPnguPBwHAnKIFyGmhaDVP4EZDOQwH7h8o97_LnvuC_yqlJGy45gZyqFNXZj1oPPGmeZjiV_QX3Ab43-oxVe2_fd7myrrCG1tNKf9TcuAzb7karDc6-krX_wYTT2ORrMoJW2RVX7azsGkwC3k60UkPlto7Y7F2Y8eSP2zty86woyZ3s5g35fo5MbhVuLLWRP2HRe3aOG7AhvkM15ki7SdMlivuJrvlryGbxDxtgiSWjM4oStebpMI3aawcEYH0EXqzRNKY85p-uEx2w55D0M8DNf1soZezU-tOG9nT4A_lGx8w?type=png)](https://mermaid.live/edit#pako:eNptkstOwzAQRX_Fmi1tFdtp0maBFOiWDSCQiLMYEtNaSuziODxa9d-xE8JD4E0899y5Gdk-QmVqCRk8Nea12qF15HYjdFQIuJbbBrtMaOJXRM4JLaIyGksaSiqgFFpo5s2XRncOtZNTQ0HGbzmYqLfcoVX42Hw5pqgphczn50Gk00bo3Lflb8q0-NUTzPnguPBwHAnKIFyGmhaDVP4EZDOQwH7h8o97_LnvuC_yqlJGy45gZyqFNXZj1oPPGmeZjiV_QX3Ab43-oxVe2_fd7myrrCG1tNKf9TcuAzb7karDc6-krX_wYTT2ORrMoJW2RVX7azsGkwC3k60UkPlto7Y7F2Y8eSP2zty86woyZ3s5g35fo5MbhVuLLWRP2HRe3aOG7AhvkM15ki7SdMlivuJrvlryGbxDxtgiSWjM4oStebpMI3aawcEYH0EXqzRNKY85p-uEx2w55D0M8DNf1soZezU-tOG9nT4A_lGx8w)
+[Arbol fractal con turtle graphics](https://editor.p5js.org/skycstls/sketches/CP2g_8xZ1)
+[Planta con aleatorizacion](https://editor.p5js.org/skycstls/sketches/Od7phpujc)
+[Ejemplo por BarneyCodes](https://editor.p5js.org/skycstls/sketches/00vS_lrMv)
 
 ---
 <style scoped>
@@ -469,13 +498,73 @@ B -> A
         background: rgb(220,220,220);
     }
     p{
+        text-align: center;
         background: rgb(220,220,220);
     }
 </style>
-# Recursos adicionales
+# Más sobre sistemas L
 [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/)
 [Superfractals](https://books.google.es/books?id=iO0B3xF65SIC&lpg=PA74&hl=es&pg=PA7#v=onepage&q&f=false)
 [Wikipedia](https://en.wikipedia.org/wiki/L-system)
 ![bg width:4000](shapes.png)
 
 ---
+<style scoped>
+    h1{
+        text-align: center;
+        background: rgb(220,220,220);
+        margin: 0;
+        padding: 0;
+    }
+
+    img{
+        display: flex;
+        margin: auto;
+    }
+    a{
+        background: rgb(220,220,220);
+    }
+    p{
+        text-align: center;
+        background: rgb(220,220,220);
+    }
+</style>
+# Librerias
+[p5 Capture](https://github.com/tapioca24/p5.capture)
+[p5 Collide](https://github.com/bmoren/p5.collide2D)
+[p5 fab](https://github.com/machineagency/p5.fab)
+[p5 glitch](https://p5.glitch.me/)
+[ml5js](https://ml5js.org/)
+
+![bg width:4000](shapes.png)
+
+---
+<style scoped>
+    h1{
+        text-align: center;
+        background: rgb(220,220,220);
+        margin: 0;
+        padding: 0;
+    }
+
+    img{
+        display: flex;
+        margin: auto;
+    }
+    a{
+        background: rgb(220,220,220);
+    }
+    p{
+        text-align: center;
+        background: rgb(220,220,220);
+    }
+</style>
+# Otras herramientas
+[Git](https://git-scm.com/) para gestionar codigo y proyectos
+[Imagemagick](https://imagemagick.org/index.php) para procesar imagenes
+[ffmpeg](https://ffmpeg.org/) para procesar video
+
+![bg width:4000](shapes.png)
+
+---
+![bg width:4000](shapes.png)
