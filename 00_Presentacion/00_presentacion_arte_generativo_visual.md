@@ -175,10 +175,14 @@ ul{
         display: flex;
         margin: auto;
     }
+    p{
+        text-align: center;
+    }
 </style>
 # Ciclo de vida p5js
 
 [![](https://mermaid.ink/img/pako:eNpNkU9PwzAMxb9K5BNI7USTttl6gMN24cBpnCAcvCbrKuVPlaYaZdp3x3QIcbOef-9Zti_QBm2ggaMN5_aEMbHXnfLFu4IhGhtQ390r-GB5zhRsMXbowsjcZFPvjO5RAbUeGSd-NGkaFlp5TqqCZ9-3_WIwlg0xzKZNQcGPQZBBRzz_8mJJKUncpzA83SYSpTySto0GI9OYKKmz4YDWjDckZ4Xyhz_EmRQ0QTNrLY7_IMjAmeiw17TqRXlG26STcUZBQ6Xtu1NSoPyVQJxS2M--hSbFyWQwDTTZ7HrsIjpojmhHUgf00FzgE5pc1HIlZcVLsRYbsa5EBjM0nK_quih5WfONkJV84NcMvkKgiGK1llIWohSi2NSi5NWS97Y0f_PpuCnEl9tzlh9dvwFR54K6?type=png)](https://mermaid.live/edit#pako:eNpNkU9PwzAMxb9K5BNI7USTttl6gMN24cBpnCAcvCbrKuVPlaYaZdp3x3QIcbOef-9Zti_QBm2ggaMN5_aEMbHXnfLFu4IhGhtQ390r-GB5zhRsMXbowsjcZFPvjO5RAbUeGSd-NGkaFlp5TqqCZ9-3_WIwlg0xzKZNQcGPQZBBRzz_8mJJKUncpzA83SYSpTySto0GI9OYKKmz4YDWjDckZ4Xyhz_EmRQ0QTNrLY7_IMjAmeiw17TqRXlG26STcUZBQ6Xtu1NSoPyVQJxS2M--hSbFyWQwDTTZ7HrsIjpojmhHUgf00FzgE5pc1HIlZcVLsRYbsa5EBjM0nK_quih5WfONkJV84NcMvkKgiGK1llIWohSi2NSi5NWS97Y0f_PpuCnEl9tzlh9dvwFR54K6)
+[Ciclo de vida de la aplicacion](https://editor.p5js.org/skycstls/sketches/-hN-tRowC)
 
 ---
 <style scoped>
@@ -205,8 +209,8 @@ ul{
 </style>
 # Aleatoriedad
 ## random(min, max)
-[lerp](https://editor.p5js.org/skycstls/sketches/Zg8rYFSDZ)
 [Posicionamiento aleatorio y mapeo de valores](https://editor.p5js.org/skycstls/sketches/9ZDTm2Yr_)
+[Lerp](https://editor.p5js.org/skycstls/sketches/Zg8rYFSDZ)
 ![bg width:100%](random_lines.png)
 
 ---
@@ -563,7 +567,6 @@ B -> A
 [Git](https://git-scm.com/) para gestionar codigo y proyectos
 [Imagemagick](https://imagemagick.org/index.php) para procesar imagenes
 [ffmpeg](https://ffmpeg.org/) para procesar video
-
 ![bg width:4000](shapes.png)
 
 ---
