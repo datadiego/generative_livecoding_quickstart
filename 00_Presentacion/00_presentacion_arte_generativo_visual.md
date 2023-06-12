@@ -4,9 +4,7 @@ theme: default
 paginate: true
 
 ---
-# D1
-## Subtext
-Lorem ipsum dolor emet
+![bg width:3200](shapes.png)
 
 ---
 # Arte generativo
