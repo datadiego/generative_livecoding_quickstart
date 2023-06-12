@@ -4,6 +4,20 @@ theme: default
 paginate: true
 
 ---
+<style scoped>
+    h1{
+        text-align: center;
+        background-color: rgb(220, 220, 220);
+        font-size: 30px;
+    }
+    img{
+        justify-content: center;
+        margin-left: 30%;
+
+    }
+    </style>
+# https://github.com/datadiego/generative_livecoding_quickstart
+![width:400](qr.png)
 ![bg width:3200](shapes.png)
 
 ---
