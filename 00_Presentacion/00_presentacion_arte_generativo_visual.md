@@ -567,6 +567,8 @@ B -> A
 [Git](https://git-scm.com/) para gestionar codigo y proyectos
 [Imagemagick](https://imagemagick.org/index.php) para procesar imagenes
 [ffmpeg](https://ffmpeg.org/) para procesar video
+Editor favorito
+VSCode + [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para desarrollo web
 ![bg width:4000](shapes.png)
 
 ---
