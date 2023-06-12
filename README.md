@@ -1,6 +1,6 @@
 # Introducción al livecoding y al arte generativo
-
-## Utilizaremos los siguientes recursos para el taller:
+![bg width:600](particles.png)
+## Librerias:
 - [Processing](https://processing.org/)
 - [p5js](https://p5js.org/)
 - [Sonic Pi](https://sonic-pi.net/)
@@ -15,6 +15,14 @@
 ### Visual
 - [Hydra](https://hydra.ojack.xyz/)
 - [vvvv](https://vvvv.org/)
+
+### Otros
+- [Pure Data](https://puredata.info/)
+- [Max MSP](https://cycling74.com/products/max/)
+- [RAVE](https://github.com/acids-ircam/RAVE)
+- [Sample generator](https://github.com/Harmonai-org/sample-generator)
+- [DDSP](https://magenta.tensorflow.org/ddsp)
+- [DDSP-VST](https://github.com/magenta/ddsp-vst)
 
 ## Ejemplos p5js
 Los ejemplos de código del taller se encuentran en la carpeta `p5js` del repositorio, puedes verlos y editarlos en línea en el [editor online](https://editor.p5js.org/skycstls/collections/u4A2R4ey6).
@@ -78,3 +86,7 @@ Los ejemplos de código del taller se encuentran en la carpeta `p5js` del reposi
 - [git](https://git-scm.com/) Sistema de control de versiones
 - [VSCode](https://code.visualstudio.com/) Editor de texto
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) Servidor local para VSCode, necesario para ejecutar sketches de p5js
+
+# Referencias
+- [TOPLAP Manifesto](https://toplap.org/wiki/ManifestoDraft)
+- [The Coding Train](https://thecodingtrain.com/)
